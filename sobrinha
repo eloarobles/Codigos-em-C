@@ -7,7 +7,7 @@ int main()
 {
     int sobrinha;
 
-    printf("Se a melhor sobrinha for a Eloa digite 1, se for a Isabella digite 2, se for a Gabriela digite 3\n");
+    printf("Se a melhor sobrinha for a Eloa digite 1, se for a Isabella digite 2, se for\n");
     scanf("%d", &sobrinha);
 
     if (sobrinha == 1)
